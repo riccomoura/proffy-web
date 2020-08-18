@@ -16,9 +16,10 @@
 
 ## 🖥 Preview
 <h1 align="center">
-  <img alt="proffy-web" title="#NextLevelWeek2" src="./public/images/screenshots/banner.jpg" />
-  <img alt="proffy-web" title="#NextLevelWeek2" src="./public/images/screenshots/give-classes.jpg" />
-  <img alt="proffy-web" title="#NextLevelWeek2" src="./public/images/screenshots/study.jpg" />
+  <a href="https://ibb.co/JmyB7gJ"><img src="https://i.ibb.co/ydYfy7j/web-landingpage.png" alt="web-landingpage" border="0"></a>
+  <a href="https://ibb.co/cx7Dprq"><img src="https://i.ibb.co/Ptfwb6k/web-card.png" alt="web-card" border="0"></a>
+  <a href="https://ibb.co/nPx8hFN"><img src="https://i.ibb.co/z6qHKzT/web-list.png" alt="web-list" border="0"></a>
+  <a href="https://ibb.co/WFHY4f9"><img src="https://i.ibb.co/mtRMV4s/web-teacherform.png" alt="web-teacherform" border="0"></a>
 </h1>
 
 ---
